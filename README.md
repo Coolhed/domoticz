@@ -1,0 +1,2 @@
+# domoticz
+Domoticz adaptions
